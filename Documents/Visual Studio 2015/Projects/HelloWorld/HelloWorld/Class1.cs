@@ -3,15 +3,18 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using NUnit.Framework;
+using NUnit.Framework.Internal;
 
 namespace HelloWorld
 {
-    class Program
+    [TestFixture]
+    class Class1
     {
-        static void Main(string[] args)
+        [Test]
+        public void FirstTest()
         {
-            Console.WriteLine("Hello World!!!");
-            Console.ReadKey();
+            Assert.True(true);
         }
     }
 }

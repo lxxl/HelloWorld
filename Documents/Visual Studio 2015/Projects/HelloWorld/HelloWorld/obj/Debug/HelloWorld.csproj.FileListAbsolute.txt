@@ -4,3 +4,5 @@ c:\users\thomas.pettersson\documents\visual studio 2015\Projects\HelloWorld\Hell
 c:\users\thomas.pettersson\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
 c:\users\thomas.pettersson\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
 c:\users\thomas.pettersson\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\thomas.pettersson\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Debug\nunit.framework.dll
+C:\Users\thomas.pettersson\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Debug\nunit.framework.xml
